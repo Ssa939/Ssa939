@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ssa939
+- 👀 I am a front-end enthusiast
+- 🌱 I’m currently learning JavaScript, NodeJS, ExpressJS.
+- 💞️ I’m looking as full stack developer.
